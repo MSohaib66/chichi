@@ -1,0 +1,20 @@
+#contact i{
+    font-size: 50px;
+    margin-left: 60px;
+}
+.social-icons .wts{
+    color: #00E676;
+}
+.social-icons .twt{
+    color: #1D9BF0;
+}
+.social-icons .fb{
+    color: #15A1FA;
+}
+.social-icons .eml{
+    color: #28A7EA;
+}
+address{
+    margin-top: 150px;
+    font-style:italic;
+}
